@@ -705,30 +705,6 @@ p {
     display: flex;
 }
 
-.p2 .fa-twitter{  /*création des liens sociaux sur la page 2*/
-    position: absolute;
-    left: 50px;
-    bottom: 5px;
-}
-
-.p2 .fa-facebook-f{
-    position: absolute;
-    left: 110px;
-    bottom: 5px;
-}
-
-.p2 .fa-dribbble{
-    position: absolute;
-    left: 155px;
-    bottom: 5px;
-}
-
-.p2 .fa-instagram{
-    position: absolute;
-    left: 210px;
-    bottom: 5px;
-}
-
 h2 {
     font-size: 22px;
     line-height: 1.4em;
