@@ -16,6 +16,14 @@ span{ /*création d'un span pour modifier couleur texte pour le contraste*/
     color: black;
 }
 
+span .white{ /*création d'un span pour modifier couleur texte pour le contraste*/
+    color: white;
+}
+
+input{
+    color: yellow;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
