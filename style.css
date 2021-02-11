@@ -6,7 +6,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
+</*j'ai créé 2 codes css, un pour modifier la taille du logo principal et l'auter pour la couleur du texte dans les boutons*/
 a,
 button {
     transition: all .3s ease-in-out;
