@@ -7,10 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.navbar-brand img{ /*ajouter code css pour modif taille logo principale*/
-    width: 250px;
-    height: 50px;
-}
+
 
 span{ /*création d'un span pour modifier couleur texte pour le contraste*/
     color: black;
