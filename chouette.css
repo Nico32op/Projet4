@@ -7,7 +7,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-
+#cta-hero4{ /*placement bouton sur la page contact*/
+    margin-left: 250px;
+}
 
 span{ /*création d'un span pour modifier couleur texte pour le contraste*/
     color: black;

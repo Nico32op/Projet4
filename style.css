@@ -7,7 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 /*j'ai créé un code css pour modifier la couleur du texte*/
-/*ajout au code partie plus petit écran redimension logo principaux*/ 
+/*ajout au code partie plus petit écran, redimension images*/ 
 a,
 button {
     transition: all .3s ease-in-out;
