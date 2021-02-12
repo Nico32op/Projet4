@@ -848,6 +848,16 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+
+    .navbar-brand{ /*modif dimension logo principale petit écran*/ 
+        width: 240px;
+        height: 40px;
+    }
+
+    .col-sm-12 img{ /*modif dimension logo la chouette arrondie*/
+        width: 100px;
+        height: 100px;
+    }
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
