@@ -20,10 +20,6 @@ span .white{ /*création d'un span pour modifier couleur texte pour le contraste
     color: white;
 }
 
-input{
-    color: yellow;
-}
-
 a,
 button {
     transition: all .3s ease-in-out;
@@ -797,12 +793,12 @@ h4 {
 }
 
 .btn-atomic-tangerine { /*remplacement couleur bouton "value envoyer" pour la page 2*/
-    background: #F3976C;
+    background: white;
     color: black!important;
 }
 
 .btn-atomic-tangerine:hover { /*remplacement couleur bouton "value envoyer" pour la page 2*/
-    background: #c27956!important;
+    background: white;
     color: black!important;
 }
 
