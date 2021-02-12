@@ -852,7 +852,7 @@ h4 {
     }
 
     .navbar-brand{ /*modif dimension logo principale petit écran*/ 
-        width: 214px;
+        width: auto;
         height: 40px;
     }
 
@@ -877,7 +877,7 @@ h4 {
     }
 
     .navbar-brand{ /*modif dimension logo principale petit écran*/ 
-        width: 214px;
+        width: auto;
         height: 40px;
     }
 
@@ -933,7 +933,7 @@ h4 {
         padding-right: 1px;
     }   
     .navbar-brand{ /*modif dimension logo principale petit écran*/ 
-        width: 214px;
+        width: auto;
         height: 40px;
     }
 
@@ -1088,7 +1088,7 @@ h4 {
     }
 
     .navbar-brand{ /*modif dimension logo principale petit écran*/ 
-        width: 214px;
+        width: auto;
         height: 40px;
     }
 
@@ -1111,7 +1111,7 @@ h4 {
     }
 
     .navbar-brand{ /*modif dimension logo principale petit écran*/ 
-        width: 214px;
+        width: auto;
         height: 40px;
     }
 
@@ -1134,7 +1134,7 @@ h4 {
 
 
 }    .navbar-brand{ /*modif dimension logo principale petit écran*/ 
-        width: 214px;
+        width: auto;
         height: 40px;
     }
 
