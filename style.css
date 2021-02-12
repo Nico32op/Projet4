@@ -783,7 +783,7 @@ h4 {
     color: #FFFFFF!important;
 }
 
-.btn-atomic-tangerine:hover {
+.btn-atomic-tangerine:hover { /*remplacement couleur bouton "value envoyer" pour la page 2*/
     background: #c27956!important;
     color: #FFFFFF!important;
 }
