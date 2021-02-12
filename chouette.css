@@ -693,8 +693,8 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 11px;
+p { /*modif taille texte*/
+    font-size: 15px;
 }
 
 .tight-width-whitespace {

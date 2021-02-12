@@ -676,7 +676,7 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
+p { /*modif taille texte*/
     font-size: 11px;
 }
 
