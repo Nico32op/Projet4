@@ -12,6 +12,11 @@ body {
     height: 40px;
 }
 
+.col-sm-12 img{ /*modif dimension logo la chouette arrondie*/
+    width: 140px;
+    height: 140px;
+}
+
 #cta-hero4{ /*placement bouton sur la page contact*/
     margin-left: 250px;
 }
