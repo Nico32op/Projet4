@@ -8,7 +8,7 @@ body {
 }
 
 .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
-    width: 240px;
+    width: 220px;
     height: 40px;
 }
 
