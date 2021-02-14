@@ -7,6 +7,11 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.navbar-brand img{ /*modif dimension logo principale petit écran*/ 
+    width: 240px;
+    height: 40px;
+}
+
 #cta-hero4{ /*placement bouton sur la page contact*/
     margin-left: 250px;
 }
@@ -1132,9 +1137,8 @@ h4 {
         text-align: center;
     }
 
-
-   .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
-        width: 214px;
+    .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
+        width: 225px;
         height: 40px;
     }
 
