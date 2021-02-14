@@ -851,14 +851,14 @@ h4 {
         padding-right: 0;
     }
 
-    .navbar-brand{ /*modif dimension logo principale petit écran*/ 
-        width: auto;
+    .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
+        width: 214px;
         height: 40px;
     }
 
     .col-sm-12 img{ /*modif dimension logo la chouette arrondie*/
-        width: 80px;
-        height: 80px;
+        width: 140px;
+        height: 140px;
     }
 
     .col-sm-6 img{ /*modif les 4 photos du mileu*/
@@ -876,14 +876,14 @@ h4 {
         max-width: 100%
     }
 
-    .navbar-brand{ /*modif dimension logo principale petit écran*/ 
-        width: auto;
+    .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
+        width: 214px;
         height: 40px;
     }
 
     .col-sm-12 img{ /*modif dimension logo la chouette arrondie*/
-        width: 80px;
-        height: 80px;
+        width: 140px;
+        height: 140px;
     }
 
     .col-sm-6 img{ /*modif les 4 photos du mileu*/
@@ -930,23 +930,23 @@ h4 {
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
         padding-left: 1px;
-        padding-right: 1px;
+        padding-right: 1px;/*remplacement de toute la ligne par 1px*/
     }   
-    .navbar-brand{ /*modif dimension logo principale petit écran*/ 
-        width: auto;
+    .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
+        width: 214px;
         height: 40px;
     }
 
     .col-sm-12 img{ /*modif dimension logo la chouette arrondie*/
-        width: 80px;
-        height: 80px;
+        width: 140px;
+        height: 140px;
     }
 
     .col-sm-6 img{ /*modif les 4 photos du mileu*/
         height: 250px;
         width: 250px;
         margin: auto;
-    }              /*remplacement de toute la ligne par 1px*/
+    }              
 }
 
 @media (max-width: 767px) {
@@ -1087,14 +1087,14 @@ h4 {
         height: 320px;
     }
 
-    .navbar-brand{ /*modif dimension logo principale petit écran*/ 
-        width: auto;
+    .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
+        width: 214px;
         height: 40px;
     }
 
     .col-sm-12 img{ /*modif dimension logo la chouette arrondie*/
-        width: 80px;
-        height: 80px;
+        width: 140px;
+        height: 140px;
     }
 
     .col-sm-6 img{ /*modif les 4 photos du mileu*/
@@ -1110,14 +1110,14 @@ h4 {
         padding-right: 0;
     }
 
-    .navbar-brand{ /*modif dimension logo principale petit écran*/ 
-        width: auto;
+    .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
+        width: 214px;
         height: 40px;
     }
 
     .col-sm-12 img{ /*modif dimension logo la chouette arrondie*/
-        width: 80px;
-        height: 80px;
+        width: 140px;
+        height: 140px;
     }
 
     .col-sm-6 img{ /*modif les 4 photos du mileu*/
@@ -1133,14 +1133,14 @@ h4 {
     }
 
 
-}    .navbar-brand{ /*modif dimension logo principale petit écran*/ 
-        width: auto;
+   .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
+        width: 214px;
         height: 40px;
     }
 
     .col-sm-12 img{ /*modif dimension logo la chouette arrondie*/
-        width: 80px;
-        height: 80px;
+        width: 140px;
+        height: 140px;
     }
 
     .col-sm-6 img{ /*modif les 4 photos du mileu*/
@@ -1148,3 +1148,4 @@ h4 {
         width: 250px;
         margin: auto;
     }
+}
