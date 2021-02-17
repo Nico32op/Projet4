@@ -928,8 +928,8 @@ h4 {
         position: relative;
     }
     .bloc {
-        padding-left: 1px;
-        padding-right: 1px;
+        padding-left: 5px;
+        padding-right: 5px;
     }                   /*remplacement de toute la ligne par 1px*/
     .bloc-group,
     .bloc-group .bloc {
@@ -939,8 +939,8 @@ h4 {
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
-        padding-left: 1px;
-        padding-right: 1px;/*remplacement de toute la ligne par 1px*/
+        padding-left: 5px;
+        padding-right: 5px;/*remplacement de toute la ligne par 1px*/
     }   
     .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
         width: 214px;
