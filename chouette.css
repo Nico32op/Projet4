@@ -930,7 +930,7 @@ h4 {
     .bloc {
         padding-left: 5px;
         padding-right: 5px;
-    }                   /*remplacement de toute la ligne par 1px*/
+    }                   /*remplacement de toute la ligne par 5px*/
     .bloc-group,
     .bloc-group .bloc {
         display: block;
@@ -940,7 +940,7 @@ h4 {
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
         padding-left: 5px;
-        padding-right: 5px;/*remplacement de toute la ligne par 1px*/
+        padding-right: 5px;/*remplacement de toute la ligne par 5px*/
     }   
     .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
         width: 214px;
