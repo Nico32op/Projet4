@@ -7,7 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.navbar-brand img{ /*modif dimension logo principale petit écran*/ 
+.navbar-brand img{ /*modif dimension logo principale*/ 
     width: 220px;
     height: 40px;
 }
