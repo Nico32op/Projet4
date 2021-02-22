@@ -860,22 +860,6 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
-
-    .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
-        width: 214px;
-        height: 40px;
-    }
-
-    .col-sm-12 img{ /*modif dimension logo la chouette arrondie*/
-        width: 140px;
-        height: 140px;
-    }
-
-    .col-sm-6 img{ /*modif les 4 photos du mileu*/
-        height: 250px;
-        width: 250px;
-        margin: auto;
-    }
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
@@ -884,22 +868,6 @@ h4 {
     }
     .nav-center.navbar .nav {
         max-width: 100%
-    }
-
-    .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
-        width: 214px;
-        height: 40px;
-    }
-
-    .col-sm-12 img{ /*modif dimension logo la chouette arrondie*/
-        width: 140px;
-        height: 140px;
-    }
-
-    .col-sm-6 img{ /*modif les 4 photos du mileu*/
-        height: 250px;
-        width: 250px;
-        margin: auto;
     }
 }
 
@@ -941,22 +909,7 @@ h4 {
         padding: 0 20px;
         padding-left: 5px;
         padding-right: 5px;/*remplacement de toute la ligne par 5px*/
-    }   
-    .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
-        width: 214px;
-        height: 40px;
-    }
-
-    .col-sm-12 img{ /*modif dimension logo la chouette arrondie*/
-        width: 140px;
-        height: 140px;
-    }
-
-    .col-sm-6 img{ /*modif les 4 photos du mileu*/
-        height: 250px;
-        width: 250px;
-        margin: auto;
-    }              
+    }             
 }
 
 @media (max-width: 767px) {
@@ -1095,22 +1048,6 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
-    }
-
-    .navbar-brand img{ /*modif dimension logo principale petit écran*/ 
-        width: 214px;
-        height: 40px;
-    }
-
-    .col-sm-12 img{ /*modif dimension logo la chouette arrondie*/
-        width: 140px;
-        height: 140px;
-    }
-
-    .col-sm-6 img{ /*modif les 4 photos du mileu*/
-        height: 250px;
-        width: 250px;
-        margin: auto;
     }
 }
 
