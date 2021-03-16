@@ -6,6 +6,11 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+/* 
+#cta-hero4{
+        padding: 15px;
+        margin-left: 15px;
+} */
 
 .navbar-brand img{ /*modif dimension logo principale*/ 
     width: 220px;
@@ -1072,6 +1077,7 @@ h4 {
         width: 250px;
         margin: auto;
     }
+
 }
 
 @media (max-width: 767px) {
@@ -1094,4 +1100,26 @@ h4 {
         width: 250px;
         margin: auto;
     }
+
+    #cta-hero4{ /*modif bouton de menu hamburger */
+        padding: 15px;
+        margin: auto;
 }
+#cta-hero{ /*modif bouton de menu hamburger acceuil */
+    padding: 15px;
+    width: 110px;
+       }
+}
+
+@media(max-width: 350px) /*adapté site au format petit smartphone*/
+{
+    #cta-hero4{ /*modif bouton de menu hamburger contact */
+        padding: 15px;
+        margin : auto;
+    }
+    #cta-hero{ /*modif bouton de menu hamburger acceuil */
+     padding: 15px;
+     width: 110px;
+        }
+
+}    
